@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T16:08:22.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Kluqs4uKypnT4ac1PjJ_" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T21:06:28.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="YBwLWqjhjNM9eUEe8oro" version="13.10.6" type="github">
   <diagram id="N2YPIgNRcK82xlx7fRUC" name="Page-1">
-    <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1929" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,7 +304,7 @@
             <mxPoint x="-12.740259740259262" y="707" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N0O4WY-tbhQ_1HVdS0zJ-15" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ZamestnanecInterface&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ predstavenie(void): void&lt;br&gt;+ poziadatOZvyseniePlatu(): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+        <mxCell id="N0O4WY-tbhQ_1HVdS0zJ-15" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;ZamestnanecInterface&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ predstavenie(void): void&lt;br&gt;+ poziadatOZvyseniePlatu(void): void&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ vypisStavUctu(void): void;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="270" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="N0O4WY-tbhQ_1HVdS0zJ-16" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;fontSize=16;" parent="1" source="FGAskcrmeEgK5uuy6muu-11" target="N0O4WY-tbhQ_1HVdS0zJ-15" edge="1">
